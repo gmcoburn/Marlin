@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Creality/Ender-3/CrealityV1"
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3/MKS GEN L with TMC2208 and BLTouch"
 
 /**
  * Configuration_adv.h
